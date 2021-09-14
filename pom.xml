@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.229.168.4:8800/money/repository/macdonald-upgrade-release/</url>
+	      <url>http://34.229.168.4:8081/money/repository/macdonald-upgrade-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.229.168.4:8800/money/repository/macdonald-upgrade-snapshot/</url>
+	      <url>http://34.229.168.4:8081/money/repository/macdonald-upgrade-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
